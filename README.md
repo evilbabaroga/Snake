@@ -1,3 +1,3 @@
-#README
+SNAKE
 
 Bitchin' ass game!
